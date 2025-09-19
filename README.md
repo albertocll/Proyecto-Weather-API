@@ -86,4 +86,4 @@ Este proyecto es de uso personal y educativo.
 Alberto – [GitHub](https://github.com/albertocll)
 ⭐ ¡Dale una estrella al proyecto si te fue útil! ⭐
 
-📸<img width="688" height="617" alt="image" src="https://github.com/user-attachments/assets/9b65b805-ffc6-4090-b387-407aa971d9a2" />
+<img width="688" height="617" alt="image" src="https://github.com/user-attachments/assets/9b65b805-ffc6-4090-b387-407aa971d9a2" />
